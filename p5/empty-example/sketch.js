@@ -68,7 +68,6 @@ function draw() {
   for(n = 0; n < raims.length; n++ ){
       raims[n].show();
   }
-
   mypacman.show();
 
   for(i=0;i<menjas.length;i++){
