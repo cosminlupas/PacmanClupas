@@ -32,8 +32,6 @@ function setup() {
     }
   }
 
-
-
   for(i = 0; i < mymaze.myrows; i++ ){
     for(j = 0; j < mymaze.mycolumns; j++ ){
       if(mymaze.mapa[i][j]==0){
