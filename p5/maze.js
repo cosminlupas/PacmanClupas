@@ -2,7 +2,6 @@ const ROWS=10;
 const COLUMNS=10;
 const IMGSIZES=32;
 
-
 class Maze{
     constructor(){
       this.myrows=ROWS;
